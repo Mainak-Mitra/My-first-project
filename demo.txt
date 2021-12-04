@@ -1,1 +1,2 @@
 I am trying to learn git and github.
+Edited from github by Jahid Hasan who is a programmer.
