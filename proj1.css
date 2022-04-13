@@ -122,8 +122,8 @@ footer a:hover{
   color: black;
   text-decoration: underline;
 }
-footer a:hover{
-  color: black;
-  text-decoration: underline;
-  
+@media(max-width: 768px){
+  .nav-link{
+    background: rgba(0,0,0,.4);
+  }
 }
